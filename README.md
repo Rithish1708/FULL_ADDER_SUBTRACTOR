@@ -1,6 +1,6 @@
 # NAME: Rithish.R
 # REG.NO: 24900403
-# EXPERIMENT-4: FULL ADDER AND SUBTRACTOR
+# EXPERIMENT-4: IMPLEMENTATION OF FULL ADDER AND SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
